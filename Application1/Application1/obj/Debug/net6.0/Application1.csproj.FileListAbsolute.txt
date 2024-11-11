@@ -24,3 +24,5 @@ C:\Users\Mahmoud\Desktop\ASP\Application1\Application1\obj\Debug\net6.0\Applicat
 C:\Users\Mahmoud\Desktop\ASP\Application1\Application1\obj\Debug\net6.0\ref\Application1.dll
 C:\Users\Mahmoud\Desktop\ASP\Application1\Application1\obj\Debug\net6.0\Application1.pdb
 C:\Users\Mahmoud\Desktop\ASP\Application1\Application1\obj\Debug\net6.0\Application1.genruntimeconfig.cache
+C:\Users\matia\Desktop\ASP\Application1\Application1\obj\Debug\net6.0\Application1.dll
+C:\Users\matia\Desktop\ASP\Application1\Application1\obj\Debug\net6.0\Application1.pdb
